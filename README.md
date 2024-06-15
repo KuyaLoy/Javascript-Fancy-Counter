@@ -1,2 +1,2 @@
 # Javascript-Fancy-Counter
-Fancy Counter built in simple HTML, CSS and Javascript
+Fancy Counter built with simple HTML, CSS and Javascript
